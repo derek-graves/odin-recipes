@@ -5,4 +5,4 @@ This is an activity to practice the following HTML skills:
 - bold and italicized text
 - git and GitHub
 
-This project will be updated with basic CSS at a later date. For now, it is just HTML.
+I have also included practice with very basic CSS.
