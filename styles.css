@@ -16,16 +16,52 @@ h1.mainpage {
 
 #bass {
   height: auto;
-  width: 600px
+  width: 600px;
 }
 
 #oatmeal {
   height: auto;
-  width: 600px
+  width: 600px;
 }
 
 #smoothie {
   height: auto;
-  width: 600px
+  width: 600px;
 }
+
+.description,
+p {
+  background-color: black;
+  color: white;
+}
+
+.description {
+  text-align: center;
+}
+
+h2,
+ul {
+  color: orange;
+}
+
+.list {
+  color: black;
+}
+
+.steps,
+ol {
+  font-weight: 100;
+  font-family: sans-serif;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
 
