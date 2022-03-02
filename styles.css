@@ -1,0 +1,31 @@
+h1 {
+  color: #013220;
+  font-family: "Courier New", sans-serif;
+  font-weight: 900;
+}
+
+h1.mainpage {
+  background-color: #013220;
+  color: yellow;
+  text-align: center;
+}
+
+.recipelink {
+    font-size: 22px;
+}
+
+#bass {
+  height: auto;
+  width: 600px
+}
+
+#oatmeal {
+  height: auto;
+  width: 600px
+}
+
+#smoothie {
+  height: auto;
+  width: 600px
+}
+
